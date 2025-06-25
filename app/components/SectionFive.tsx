@@ -38,6 +38,12 @@ export default function SectionFive() {
           <h2>Bereit für Ihre digitale Transformation?</h2>
           <p>Kostenlose Beratung durch unsere Digitalexperten</p>
         </header>
+ <div style={{marginBottom:"10px"}}>
+
+         {/* <a style={{color:"white"}} href="https://instagram.com/your_username" target="_blank">Instagram</a> */}
+        <a style={{color:"white"}}  href="https://wa.me/+4915755021428" target="_blank">WhatsApp</a>
+        
+ </div>
         <form method="post" onSubmit={handleSubmit} className="cta">
           <div className="row gtr-uniform gtr-50">
             <div className="col-8 col-12-xsmall">

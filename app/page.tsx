@@ -2,9 +2,7 @@
 
 import "@/public/css/main.css";
 import "@/public/css/noscript.css";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Script from "next/script";
+
 import Banner from "./components/Banner";
 import SectionOne from "./components/SectionOne";
 import SectionTwo from "./components/SectionTwo";
